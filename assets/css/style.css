@@ -333,7 +333,7 @@ footer {
     }
 }
 
-@media screen (max-width: 800ox) {
+@media screen (max-width: 800px) {
     #photos {
         column-count: 2;
     }
